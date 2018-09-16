@@ -2,7 +2,7 @@
 
 FRANCAIS
 Ce projet à été créé à L'occasion du projet My_Cook, projet de première année d'Epitech, à réaliser en 1 mois.
-Il a été réalisé par Matthieu Saueur et Alexandre Seignol.
+Il a été réalisé par Matthieu Sauer et Alexandre Seignol.
 L'objectif était de créer un jeu reprenant le principe du Cook-Serve-Delicious.
 Nous devions créer un menu sur lequel des commandes apparaissaient aléatoirement,
 que le joueur devait compléter à l'aide de boutons.
@@ -17,7 +17,7 @@ Alexandre et Matthieu
 			
 ENGLISH
 This project was made during My_Cook project, an Epitech's first year project. We had one month to complete it.
-It was made by Matthieu Saueur and Alexandre Seignol.
+It was made by Matthieu Sauer and Alexandre Seignol.
 The objective was to create a game inspired by Cook-Serve-Delicious.
 We had to create an interface where orders appeared randomly, which the player must complete with buttons.
 We decided to go further with this concept, and tried to recreate Overcooked.
