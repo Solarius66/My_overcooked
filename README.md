@@ -1,7 +1,8 @@
 # My_overcooked
 
 FRANCAIS
-Ce projet à été créé à L'occasion du projet My_Cook, projet de première année d'Epitech, à réaliser en 1 mois.
+Ce projet à été créé à L'occasion du projet My_Cook, projet de première année d'Epitech, à réaliser en 1 mois,
+avec l'aide de la librairie graphique CSFML.
 Il a été réalisé par Matthieu Sauer et Alexandre Seignol.
 L'objectif était de créer un jeu reprenant le principe du Cook-Serve-Delicious.
 Nous devions créer un menu sur lequel des commandes apparaissaient aléatoirement,
@@ -16,7 +17,8 @@ Cordialement,
 Alexandre et Matthieu
 			
 ENGLISH
-This project was made during My_Cook project, an Epitech's first year project. We had one month to complete it.
+This project was made during My_Cook project, an Epitech's first year project. We had one month to complete it,
+with the CSFML graphical Librairy.
 It was made by Matthieu Sauer and Alexandre Seignol.
 The objective was to create a game inspired by Cook-Serve-Delicious.
 We had to create an interface where orders appeared randomly, which the player must complete with buttons.
