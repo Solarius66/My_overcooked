@@ -3,7 +3,7 @@
 FRANCAIS
 Ce projet à été créé à L'occasion du projet My_Cook, projet de première année d'Epitech, à réaliser en 1 mois.
 Il a été réalisé par Matthieu Saueur et Alexandre Seignol.
-L'objectif était de créer un jeu reprenant le principe du Cook-Serve_Delicious.
+L'objectif était de créer un jeu reprenant le principe du Cook-Serve-Delicious.
 Nous devions créer un menu sur lequel des commandes apparaissaient aléatoirement,
 que le joueur devait compléter à l'aide de boutons.
 Nous avons décidé de pousser plus en avant le concept, en nous inspirant de Overcooked.
